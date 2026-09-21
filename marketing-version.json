@@ -1,10 +1,10 @@
 {
   "kind": "kst-marketing",
-  "version": "1.8.9",
-  "commitSha": "ce2d0d10f9f8aac948cc62d82fe7aa9de54806d1",
-  "builtAt": "2026-09-21T06:15:55.696Z",
+  "version": "1.8.10",
+  "commitSha": "42408c9b8eba2c06739f4ec7670b93f5bd10a1ee",
+  "builtAt": "2026-09-21T15:28:55.715Z",
   "publicUrl": "https://fengzide86.github.io",
-  "downloadUrl": "https://8.130.113.104/updates/KST%20Setup%201.8.9.exe",
+  "downloadUrl": "https://8.130.113.104/updates/KST%20Setup%201.8.10.exe",
   "sourcePolicy": "marketing-only-v1",
   "sourceModuleCount": 22
 }
