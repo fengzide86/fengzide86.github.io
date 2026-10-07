@@ -1,2 +1,10 @@
 /terms /index.html 200
+/terms/ /index.html 200
 /user/terms /terms 301
+/user/terms/ /terms 301
+/competition /index.html 200
+/competition/ /index.html 200
+/course /index.html 200
+/course/ /index.html 200
+/tools /index.html 200
+/tools/ /index.html 200

@@ -1,10 +1,10 @@
 {
   "kind": "kst-marketing",
-  "version": "1.8.11",
-  "commitSha": "4b2c897a4fa99ff2f8895b87a3658b241f87ba32",
-  "builtAt": "2026-09-22T09:14:14.666Z",
-  "publicUrl": "https://fengzide86.github.io",
-  "downloadUrl": "https://8.130.113.104/updates/KST%20Setup%201.8.11.exe",
+  "version": "1.8.12",
+  "commitSha": "8d1d1b8c3032fc8bc34adaedec2e17977b9723a7",
+  "builtAt": "2026-10-07T04:57:13.716Z",
+  "publicUrl": "https://kesaitong.top",
+  "downloadUrl": "https://8.130.113.104/updates/KST%20Setup%201.8.12.exe",
   "sourcePolicy": "marketing-only-v1",
-  "sourceModuleCount": 23
+  "sourceModuleCount": 32
 }
