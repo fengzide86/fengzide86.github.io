@@ -1,10 +1,10 @@
 {
   "kind": "kst-marketing",
   "version": "1.8.12",
-  "commitSha": "4c647bc76f3ad589e477da620669e15b33de6abd",
-  "builtAt": "2026-10-09T07:11:15.083Z",
+  "commitSha": "0dd46f567e5bef89db7dad4afe69a1bef2ac025e",
+  "builtAt": "2026-10-09T09:54:31.794Z",
   "publicUrl": "https://kesaitong.top",
   "downloadUrl": "https://8.130.113.104/updates/KST%20Setup%201.8.14.exe",
   "sourcePolicy": "marketing-only-v1",
-  "sourceModuleCount": 60
+  "sourceModuleCount": 66
 }
